@@ -2,7 +2,8 @@
 
 
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
