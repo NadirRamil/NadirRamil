@@ -1,11 +1,10 @@
-<h1 align="center">Hey there! I'm Nadir Ramil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey there! I'm Nadir Ramil </h1>
 
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+  <b>About Me</b>
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
