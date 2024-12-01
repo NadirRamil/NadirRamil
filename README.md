@@ -1,55 +1,49 @@
-<h1 align="center">Hey there! I'm Nadir Ramil </h1>
+
+<h1 align="center">Hi , I'm Nadir Ramil<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<img align="right" width=300px alt="programer" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2syaTE4MmYyanY2MGJtMHExeWthNWM0dWZ6ZHZ4am55OXYybjE2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp"/>
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+
+I am a TUDAI student (University Technician Program in Application Development) , currently halfway through my degree.. I am actively expanding my knowledge in both front-end and back-end development, combining my formal education with self-taught learning.
+
+I am passionate about creating innovative, productive, and creative solutions, and I’m eager to start my professional journey in the IT field to apply and grow my skills.
+
+🌱 I’m currently learning ...
+Modern web development technologies and frameworks.
+
+👯 I’m looking forward to collaborating on projects where I can contribute and gain valuable experience.
+
+✔ Feel free to ask me anything; I’m happy to connect and help.
+
+📫 Reach out to me at: nadirramil92@gmail.com
 
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## My Skills Include
 
-  <b>About Me</b>
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</span>
 
-- 👯 I’m looking forward to collaborate on open source projects.
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/nadirramil)**
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src=" https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+ 
+</span>
 
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
-- ⚡ Coding fact: "There are over 700 different programming languages".
 
-- 💪🏼 Fav Quote: "Great Developers never stop learning".
 
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-<p align="center">
-
-- 📋 Languages:
     
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-   
-- ☁️ Cloud:
-
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    
-- ♾️ DevOps:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-    
-- 💾 Databases:
-
-    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-      
-- 🥅 Others:
-
-   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-    
-
-
-</p>
-
